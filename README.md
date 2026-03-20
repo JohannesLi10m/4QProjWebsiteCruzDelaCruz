@@ -1,1 +1,8 @@
-# 4QProjWebsiteCruzDelaCruz
+# Final Modification Proposal
+
+To fully implement the elements of CRUD in our website, we will add the ability for the user to edit and delete their account on the website. Additionally, we will add more implementations for the local storage in our website through a personalized homepage welcoming the user with their inputted name, the color palette of the website changing with the user’s preferred team, and lastly, an offline capability so that users can access the website while not having a net connection.
+
+We will also add 3 additional information pages that detail how a Formula One team is made, and a guide on how to take a proper racing line and how to apply throttle and brake properly in a Formula car, and 1 additional game about each track in the 2026 F1 calendar, this game will be a memory game, where drivers(users) click right, or left, depending on the next turn in the track, if you finish within the time(60 seconds) there will be a finish line screen with the letters “P1” written on it, if you crash at a corner, there will be a Game Over screen with a car crashed at the track with the words “You Crashed Out”, and lastly, there will be a “Out of Fuel” screen with the car stopped on the side of the track if you don’t finish within the time given, CRUD will be used in this to save the user’s best record on that track (This will also be added for the 1st game).
+
+Link to updated wireframe:
+https://www.canva.com/design/DAHDZ33JFKc/hvdTkJ5-c8c7F9GeeQmTOw/edit
